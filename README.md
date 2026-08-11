@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Fatin Nehal Zubaeer**, a Computer Science and Engineering undergraduate at the  
+I'm **Fatin Nehal Zubaeer**, a Computer Science and Engineering Undergraduate at the  
 **Bangladesh University of Engineering and Technology (BUET)**.
 
 Currently exploring the intersection of **software, signals, and hardware** — building things, breaking things, and learning why they work along the way.
