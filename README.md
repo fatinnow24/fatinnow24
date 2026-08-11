@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm **Fatin Nehal Zubaeer**
 
-### `CSE Undergraduate` · `Signal Processing` · `Computer Vision` · `Open Source`
+### `CSE Undergraduate`
 
 <p>
   <a href="mailto:workfatinwork@gmail.com">
