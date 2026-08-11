@@ -32,12 +32,4 @@ I'm **Fatin Nehal Zubaeer**, a Computer Science and Engineering undergraduate at
 
 Currently exploring the intersection of **software, signals, and hardware** — building things, breaking things, and learning why they work along the way.
 
-```text
-🎓  CSE Undergraduate @ BUET
-📚  Level 2 · Term 2
-🔬  Signal Processing
-👁️  Computer Vision
-🌐  Open Source
-💻  Software Engineering
-⚡  Hardware Design
 
