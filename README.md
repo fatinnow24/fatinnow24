@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/spidey.jpg" width="100%">
+  <img src="./assets/spidey.jpg" width="50%">
 </p>
 
 </div>
