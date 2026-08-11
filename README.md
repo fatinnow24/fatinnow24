@@ -19,7 +19,9 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Fatin%20Nehal%20Zubaeer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+  <img src="./assets/spidey.jpg" width="100%">
+</p>
 
 </div>
 
