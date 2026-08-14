@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/spidey.jpg" width="50%">
+  <img src="./assets/spiderman.gif" width="50%">
 </p>
 
 </div>
@@ -33,5 +33,3 @@ I'm **Fatin Nehal Zubaeer**, a Computer Science and Engineering Undergraduate at
 **Bangladesh University of Engineering and Technology (BUET)**.
 
 Currently exploring the intersection of **Software, Algorithms, Data Structures, Signals, and Hardware** — building things, breaking things, and learning why they work along the way.
-
-
